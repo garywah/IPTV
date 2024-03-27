@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="廣州競賽" tvg-name="廣州競賽01" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="國內 IPV4頻道",廣州競賽
+https://yang-1989.eu.org/gz/jj
+#EXTINF:-1 tvg-id="廣州競賽" tvg-name="廣州競賽02" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="國內 IPV4頻道",廣州競賽
+http://113.65.8.165:8000/udp/239.253.43.75:5146
+#EXTINF:-1 tvg-id="廣州競賽" tvg-name="廣州競賽03" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="國內 IPV4頻道",廣州競賽
+http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzjs
+#EXTINF:-1 tvg-id="廣州競賽" tvg-name="廣州競賽04" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="國內 IPV4頻道",廣州競賽
+https://justsometime.gztv.com/sec/jingsai.m3u8
