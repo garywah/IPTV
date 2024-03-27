@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="廣東體育" tvg-name="廣東體育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="國內 IPV4頻道",廣東體育01
+http://ci.emdoor.tech:8080/touchtv.php?pk=1184
+#EXTINF:-1 tvg-id="廣東體育" tvg-name="廣東體育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="國內 IPV4頻道",廣東體育02
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+#EXTINF:-1 tvg-id="廣東體育" tvg-name="廣東體育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="國內 IPV4頻道",廣東體育03
+http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+#EXTINF:-1 tvg-id="廣東體育" tvg-name="廣東體育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="國內 IPV4頻道",廣東體育04
+https://php.17186.eu.org/gdtv/gdty.m3u8
+#EXTINF:-1 tvg-id="廣東體育" tvg-name="廣東體育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="國內 IPV4頻道",廣東體育05
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 tvg-id="廣東體育" tvg-name="廣東體育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="國內 IPV4頻道",廣東體育06
+https://php.17186.eu.org/gdtv/web/gdty.m3u8
