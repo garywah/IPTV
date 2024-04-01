@@ -2,7 +2,7 @@
 
 以下直播源均來自於網絡，本人只進行收集和整理，不對內容的隱私和版權負責。
 
-## @garywah 本人收集和整理
+## @garywah 本人收集和整理 (不定期更新維護)
 
 * 國內體育頻道+港澳台體育頻道+球會官方頻道
 
@@ -47,3 +47,9 @@ https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 ```
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 ```
+
+## 打賞
+
+請我飲杯咖啡☕，十分感謝🫶！
+
+![WeChat](https://github.com/garywah/IPTV/assets/48440673/01888bfa-a6f2-41bb-ae55-23b68650e38d)     ![Alipay](https://github.com/garywah/IPTV/assets/48440673/2039b740-71b7-4aa2-b330-3000b0292e73)
