@@ -4,10 +4,10 @@
 
 ## @garywah 本人收集和整理 (不定期更新維護)
 
-* 國內體育頻道+港澳台體育頻道+球會官方頻道
+* 國內體育頻道+港澳台體育頻道+球會官方頻道 (多源，更新2024.04.04)
 
 ```
-https://raw.githubusercontent.com/garywah/IPTV/main/iptv.m3u
+https://raw.githubusercontent.com/garywah/IPTV/main/sports.m3u
 ```
 
 ## 全球公開頻道集合
