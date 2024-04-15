@@ -4,13 +4,13 @@
 
 ## @garywah 本人收集和整理 (不定期更新維護)
 
-* 國內體育頻道+港澳台體育頻道+球會官方頻道 (提供備用源，更新2024.04.11)
+* 國內體育頻道+港澳台體育頻道+球會官方頻道 (提供備用源，更新2024.04.16)
 
 ```
 https://raw.githubusercontent.com/garywah/IPTV/main/sports.m3u
 ```
 
-* 港澳台頻道 (能看多少隨緣，提供備用源，更新2024.04.05)
+* 港澳台頻道 (能看多少隨緣，提供備用源，更新2024.04.16)
 
 ```
 https://raw.githubusercontent.com/garywah/IPTV/main/hkmotw.m3u
